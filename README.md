@@ -1,1 +1,1 @@
-# ml-practice
+Udacity ML course git init
